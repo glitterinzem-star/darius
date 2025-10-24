@@ -245,7 +245,7 @@
         <section class="character-section">
             <div class="character-image">
                 <!-- В реальном коде здесь должна быть ссылка на изображение -->
-                <img src="https://example.com/darius-hero-image.jpg" alt="Дариус - Mobile Legends" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22300%22 height=%22400%22 viewBox=%220 0 300 400%22><rect width=%22300%22 height=%22400%22 fill=%22%23222%22/><text x=%22150%22 y=%22200%22 font-family=%22Arial%22 font-size=%2224%22 fill=%22%23fff%22 text-anchor=%22middle%22>Изображение Дариуса</text></svg>'">
+                <img src="https://github.com/glitterinzem-star/darius/blob/1aa99cb3ae36d58ce9ff41e4ebe513b4dbd865ff/darius.jpg.jpg" alt="Дариус - Mobile Legends" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22300%22 height=%22400%22 viewBox=%220 0 300 400%22><rect width=%22300%22 height=%22400%22 fill=%22%23222%22/><text x=%22150%22 y=%22200%22 font-family=%22Arial%22 font-size=%2224%22 fill=%22%23fff%22 text-anchor=%22middle%22>Изображение Дариуса</text></svg>'">
             </div>
             
             <div class="character-info">
